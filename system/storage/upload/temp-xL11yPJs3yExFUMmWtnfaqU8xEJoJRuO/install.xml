@@ -1,0 +1,17 @@
+<modification>
+    <name>Пояснение к новому полю</name>
+    <code>mymodule</code>
+    <version>1.0</version>
+    <author>beginopencart</author>
+    <link>begincscart.ru</link>
+    <file path="catalog/view/theme/default/template/product/category.tpl">
+        <operation>
+            <search index="2"><![CDATA[
+            <h3><?php echo $new_field; ?></h3>
+            ]]></search>
+            <add position="after"><![CDATA[
+	    <p><?php echo " - значение поля new_field;" ?></p>
+	    ]]></add>
+        </operation>
+    </file>  
+</modification>

@@ -1,0 +1,76 @@
+2017-02-18 14:32:17 - PHP Notice:  Undefined variable: entry_new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 59
+2017-02-18 14:32:17 - PHP Notice:  Undefined variable: entry_new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 61
+2017-02-18 14:32:17 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 61
+2017-02-18 14:35:19 - PHP Notice:  Undefined variable: entry_new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 59
+2017-02-18 14:35:19 - PHP Notice:  Undefined variable: entry_new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 61
+2017-02-18 14:35:19 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 61
+2017-02-18 14:45:33 - PHP Notice:  Undefined variable: entry_new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 59
+2017-02-18 14:45:33 - PHP Notice:  Undefined variable: entry_new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 61
+2017-02-18 14:45:33 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 61
+2017-02-18 14:45:36 - PHP Notice:  Undefined variable: entry_new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 59
+2017-02-18 14:45:36 - PHP Notice:  Undefined variable: entry_new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 61
+2017-02-18 14:45:36 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 61
+2017-02-18 14:45:47 - PHP Notice:  Undefined variable: entry_new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 59
+2017-02-18 14:45:47 - PHP Notice:  Undefined variable: entry_new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 61
+2017-02-18 14:45:49 - PHP Notice:  Undefined variable: entry_new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 59
+2017-02-18 14:45:49 - PHP Notice:  Undefined variable: entry_new_field in /home/v/v79022ry/begincscart.ru/public_html/admin/view/template/catalog/category_form.tpl on line 61
+2017-02-18 14:52:56 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 14:52:56 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 14:55:43 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 14:55:43 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 14:57:12 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 14:57:12 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 14:57:14 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 14:57:14 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 14:57:17 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 14:57:17 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 15:01:47 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 15:01:47 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 15:06:33 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 15:06:33 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 219
+2017-02-18 15:10:47 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:10:47 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:18:29 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:18:29 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:18:41 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:18:41 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:19:23 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:19:23 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:21:44 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:21:44 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:23:43 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:23:43 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:23:44 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:23:44 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:24:31 - PHP Notice:  Undefined variable: description in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 18
+2017-02-18 15:24:31 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 107
+2017-02-18 15:24:31 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 107
+2017-02-18 15:27:23 - PHP Notice:  Undefined variable: description in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 18
+2017-02-18 15:27:24 - PHP Notice:  Undefined variable: description in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 18
+2017-02-18 15:28:41 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:28:41 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 15:29:27 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 107
+2017-02-18 15:29:27 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 107
+2017-02-18 15:29:58 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 107
+2017-02-18 15:29:58 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 108
+2017-02-18 15:29:58 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 107
+2017-02-18 15:29:58 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 108
+2017-02-18 15:30:00 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 107
+2017-02-18 15:30:00 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 108
+2017-02-18 15:30:00 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 107
+2017-02-18 15:30:00 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 108
+2017-02-18 15:30:37 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 108
+2017-02-18 15:30:37 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 108
+2017-02-18 15:30:40 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 108
+2017-02-18 15:30:40 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 108
+2017-02-18 16:25:43 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 16:25:43 - PHP Notice:  Undefined index: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 16:33:09 - PHP Notice:  Undefined variable: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/view/theme/default/template/product/category.tpl on line 18
+2017-02-18 16:34:01 - PHP Notice:  Undefined variable: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 16:34:01 - PHP Notice:  Undefined variable: new_field in /home/v/v79022ry/begincscart.ru/public_html/catalog/controller/product/category.php on line 220
+2017-02-18 19:51:44 - PHP Warning:  DOMDocument::loadXML(): Input is not proper UTF-8, indicate encoding !
+Bytes: 0xCF 0xEE 0xFF 0xF1 in Entity, line: 2 in /home/v/v79022ry/begincscart.ru/public_html/admin/controller/extension/installer.php on line 435
+2017-02-18 19:53:59 - PHP Warning:  DOMDocument::loadXML(): Input is not proper UTF-8, indicate encoding !
+Bytes: 0xCF 0xEE 0xFF 0xF1 in Entity, line: 3 in /home/v/v79022ry/begincscart.ru/public_html/admin/controller/extension/installer.php on line 435
+2017-02-18 19:57:41 - PHP Warning:  DOMDocument::loadXML(): Input is not proper UTF-8, indicate encoding !
+Bytes: 0xCF 0xEE 0xFF 0xF1 in Entity, line: 3 in /home/v/v79022ry/begincscart.ru/public_html/admin/controller/extension/installer.php on line 435
